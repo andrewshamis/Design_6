@@ -10,5 +10,5 @@ For Lab 6, I used Node.js and Pystache to run code in the terminal and web brows
 ![Screenshot 2022-04-17 233948](https://user-images.githubusercontent.com/78375489/164943496-66c3d2bb-fee2-4aec-90da-924b6bd615bb.jpg)
 
 
-### Pystache
+## Pystache
 ![Screenshot 2022-04-17 235310](https://user-images.githubusercontent.com/78375489/164943476-31207a67-c085-4b28-903c-2d649a4b35cf.jpg)
